@@ -28,8 +28,9 @@ train.py starts or continues an experiment from the latest checkpoint.
 `python train.py logdir -s maxseconds --save_freq timesteps_per_checkpoint`
 
 ### Replicating the experiments in the paper
-For each of the robot morphologies (Hopper, Walker, Ant) and each terrian type (level, inclined), our experiments can be replicated
-using the following commands
+Pretrained models from our experiments are included with the release of this code. 
+
+Additionally, for each of the robot morphologies (Hopper, Walker, Ant) and each terrian type (level, inclined), our experiments can be replicated using the following commands
 
 #### Level Terrain
 ```
