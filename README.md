@@ -1,4 +1,4 @@
-# Jointly Learning to Contruct and Control Agents using Reinforcement Learning
+# Jointly Learning to Construct and Control Agents using Reinforcement Learning
 
 This code accompanies the paper *Jointly Learning to Construct and Control Agents using Reinforcement Learning*.
 
