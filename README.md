@@ -1,6 +1,6 @@
 # Jointly Learning to Contruct and Control Agents using Reinforcement Learning
 
-This code accompanies the paper *Jointly Learning to Contruct and Control Agents using Reinforcement Learning*.
+This code accompanies the paper *Jointly Learning to Construct and Control Agents using Reinforcement Learning*.
 
 Arxiv Link: [https://arxiv.org/abs/1801.01432](https://arxiv.org/abs/1801.01432)
 
